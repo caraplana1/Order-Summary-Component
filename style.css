@@ -1,0 +1,30 @@
+body {
+	background-image: url("./images/pattern-background-desktop.svg");
+	text-align: center;
+	font-size: 16px;
+	font-weight: 500 700 900;
+}
+
+main{
+	background-color: white;
+	width: fit-content;
+	border-radius: 5%;
+	background-position: center;
+}
+
+img{
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-size: cover;
+}
+
+.plan{
+	background-color: hsl(225, 100%, 94%);
+}
+
+#payment{
+	background-color: hsl(245, 75%, 52%);
+	color: white;
+	border-radius: 5px;
+	border-style: outset;
+}
