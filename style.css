@@ -9,7 +9,9 @@ body {
 main{
 	background-color: white;
 	border-radius: 1rem;
-	margin: 5rem 20rem 5rem 20rem;
+	margin: auto;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
 	max-width: 30%;
 	min-width: 30%;
 	min-height: 35%;
