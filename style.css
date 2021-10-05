@@ -1,30 +1,44 @@
 body {
 	background-image: url("./images/pattern-background-desktop.svg");
+	background-repeat: no-repeat;
+	background-color: hsl(225, 100%, 94%);
 	text-align: center;
 	font-size: 16px;
-	font-weight: 500 700 900;
 }
 
 main{
 	background-color: white;
-	width: fit-content;
-	border-radius: 5%;
-	background-position: center;
+	border-radius: 1rem;
+	margin: 5rem 20rem 5rem 20rem;
 }
 
-img{
-	border-top-left-radius:5px;
-	border-top-right-radius:5px;
-	background-size: cover;
+header img{
+	border-top-left-radius:1rem;
+	border-top-right-radius:1rem;
+	max-width: 100%;
 }
 
 .plan{
-	background-color: hsl(225, 100%, 94%);
+	background-color: hsl(225, 100%, 98%);
+	border-radius: 1rem;
 }
 
 #payment{
 	background-color: hsl(245, 75%, 52%);
 	color: white;
-	border-radius: 5px;
+	border-radius: 5rem;
 	border-style: outset;
+}
+section{
+	padding-right: 2rem;
+	padding-left: 2rem;
+	padding-bottom: 3rem;
+}
+
+.plan *{
+	margin: 0rem;
+}
+
+.plan img{
+	position: absolute left;
 }
