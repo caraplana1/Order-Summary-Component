@@ -11,11 +11,15 @@ main{
 	border-radius: 1rem;
 	margin: auto;
 	margin-top: 3rem;
-	margin-bottom: 3rem;
-	max-width: 30%;
-	min-width: 30%;
-	min-height: 35%;
+	margin-bottom: 5rem;
+	max-width: 400px;
+	min-width: 135px;
+	min-height: 400px;
 	overflow: hidden;
+}
+
+p{
+	color:hsl(224, 23%, 55%) ;
 }
 
 header img{
@@ -32,13 +36,18 @@ header img{
 #payment{
 	background-color: hsl(245, 75%, 52%);
 	color: white;
-	border-radius: 5rem;
-	border-style: outset;
+	border-radius: 1rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
 }
 section{
 	padding-right: 2rem;
 	padding-left: 2rem;
-	padding-bottom: 3rem;
+	padding-bottom: 1rem;
+}
+
+.bold{
+	font-weight: bold;
 }
 
 .plan *{
