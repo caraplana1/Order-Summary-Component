@@ -44,11 +44,24 @@ header img{
 	border-radius: 1rem;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+	box-shadow: 0px 10px 15px #bbb;
 }
+
+#payment:active{
+	cursor: pointer;
+	background-color: mediumpurple;
+}
+
+#main{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
 section{
 	padding-right: 2rem;
 	padding-left: 2rem;
 	padding-bottom: 1rem;
+	min-height: 80px;
 }
 
 .bold{
@@ -70,4 +83,8 @@ section{
 
 .text *{
 	margin: 0;
+}
+
+.shadow{
+	box-shadow: 0px 10px 15px #bbb;
 }
