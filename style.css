@@ -20,6 +20,19 @@ main{
 	overflow: hidden;
 }
 
+@media (max-width: 375px) {
+	body{
+		background-image: url("./images/pattern-background-mobile.svg");
+	}
+
+	main{
+		margin: 0 auto;
+		margin-top: 2rem;
+		margin-left: 2rem;
+		max-width: 330;
+	}
+}
+
 p{
 	color:hsl(224, 23%, 55%) ;
 }
