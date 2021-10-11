@@ -26,10 +26,8 @@ main{
 	}
 
 	main{
-		margin: 0 auto;
-		margin-top: 2rem;
-		margin-left: 2rem;
-		max-width: 330;
+		margin: 2rem;
+		max-width: 350px;
 	}
 }
 
