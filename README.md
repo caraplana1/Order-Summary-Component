@@ -1,6 +1,6 @@
 # Order-Summary-Component Challenge
 
-![Page](images\SreenShoot-caraplana1.github.io.png)
+![Page](https://raw.githubusercontent.com/caraplana1/Order-Summary-Component/main/images/SreenShoot-caraplana1.github.io.png)
 
 # Links
 
