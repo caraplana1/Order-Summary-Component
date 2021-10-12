@@ -5,12 +5,15 @@ body {
 	text-align: center;
 	font-size: 16px;
 	font-family: 'Red Hat Display', sans-serif;
+	padding-top: 3%;
 }
 
 main{
 	background-color: white;
 	border-radius: 1rem;
 	margin: auto;
+	margin-bottom: 3%;
+	vertical-align: middle;
 	max-width: 375px;
 	min-width: 135px;
 	min-height: 400px;
